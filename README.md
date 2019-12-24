@@ -8,3 +8,5 @@ What I learnt:
 How to improve:
 - Make the webpages responsive
 - Include javascript or related libraries.
+
+![Bakery](https://github.com/ChristabelA/Bakery-Website/blob/master/Bakery-gif.gif)
